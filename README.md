@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy salvadorguc 👋
 
-<!--
-**salvadorguc/salvadorguc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+Soy un desarrollador apasionado por la tecnología y la programación. Me encanta aprender nuevas tecnologías y colaborar en proyectos interesantes.
 
-Here are some ideas to get you started:
+## Tecnologías
+- **Lenguajes:** Python, JavaScript, Java, C++
+- **Frameworks:** React, Node.js, Django, Spring Boot
+- **Herramientas:** Git, Docker, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+- [sisproone](https://github.com/salvadorguc/sisproone): Breve descripción del proyecto.
+- [Otro Proyecto](https://github.com/salvadorguc/otro-proyecto): Breve descripción del proyecto.
+
+## Contacto
+- **Email:** salvadorguc@example.com
+- **LinkedIn:** [salvadorguc](https://www.linkedin.com/in/salvadorguc)
+- **Twitter:** [@salvadorguc](https://twitter.com/salvadorguc)
+
+## Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=salvadorguc&show_icons=true&theme=radical)
