@@ -1,19 +1,25 @@
 # ¡Hola! Soy salvadorguc 👋
 
 ## Acerca de mí
-Soy un desarrollador apasionado por la tecnología y la programación. Me encanta aprender nuevas tecnologías y colaborar en proyectos interesantes.
+Soy un desarrollador con más de 12 años de experiencia en la creación de soluciones tecnológicas robustas. He trabajado en el diseño y desarrollo de **SISPRO**, un ecosistema especializado en la gestión de la producción y sincronización con ERP como **SAP B1**, integrando múltiples herramientas como AWS, Docker y React.
+
+En mi primer proyecto de SISPRO, aprendí **PHP**, **jQuery** y **CodeIgniter**, herramientas clave para el desarrollo web en ese momento. Además, tengo experiencia gestionando nóminas con **ASPEL NOI**.
+
+Actualmente, soy **jefe de sistemas** en mi trabajo, donde también manejo **pagos, movimientos bancarios y nóminas**, además de coordinar los sistemas informáticos y de producción.
 
 ## Tecnologías
-- **Lenguajes:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Herramientas:** Git, Docker, Kubernetes
+- **Lenguajes:** Python, JavaScript (React, Node.js), Java , PHP, TypeScript
+- **Frameworks y Librerías:** React, Next.js, Node.js, CodeIgniter
+- **Herramientas y Servicios:** Git, Docker, AWS (S3, EC2), Prisma
+- **Bases de Datos:** MySQL, SQL Server
+- **Otros Sistemas:** ASPEL NOI (Nóminas)
 
 ## Proyectos Destacados
-- [sisproone](https://github.com/salvadorguc/sisproone): Breve descripción del proyecto.
-- [Otro Proyecto](https://github.com/salvadorguc/otro-proyecto): Breve descripción del proyecto.
+- [SISPRO](https://github.com/salvadorguc/sisproone): Sistema de gestión de producción para la industria de calcetines, con integración a SAP B1 y AWS.
+- [Otro Proyecto](https://github.com/salvadorguc/otro-proyecto): Descripción breve del proyecto aquí.
 
 ## Contacto
-- **Email:** salvadorguc@example.com
+- **Email:** salvadorguc@gmail.com
 - **LinkedIn:** [salvadorguc](https://www.linkedin.com/in/salvadorguc)
 - **Twitter:** [@salvadorguc](https://twitter.com/salvadorguc)
 
