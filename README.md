@@ -8,11 +8,11 @@ En mi primer proyecto de SISPRO, aprendí **PHP**, **jQuery** y **CodeIgniter**,
 Actualmente, soy **jefe de sistemas** en mi trabajo, donde también manejo **pagos, movimientos bancarios y nóminas**, además de coordinar los sistemas informáticos y de producción.
 
 ## Tecnologías
-- **Lenguajes:** Python, JavaScript (React, Node.js), Java , PHP, TypeScript
-- **Frameworks y Librerías:** React, Next.js, Node.js, CodeIgniter
+- **Lenguajes:** Python, JavaScript (React, Node.js, React Native), Java , PHP, TypeScript
+- **Frameworks y Librerías:** React, React Native, Expo, Next.js, Node.js, CodeIgniter
 - **Herramientas y Servicios:** Git, Docker, AWS (S3, EC2), Prisma
 - **Bases de Datos:** MySQL, SQL Server
-- **Otros Sistemas:** ASPEL NOI (Nóminas)
+- **Otros Sistemas:** SAP B1, ASPEL NOI (Nóminas)
 
 ## Proyectos Destacados
 - [SISPRO](https://github.com/salvadorguc/sisproone): Sistema de gestión de producción para la industria de calcetines, con integración a SAP B1 y AWS.
